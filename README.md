@@ -1,2 +1,3 @@
-Repositori de l'assignatura d'Estructura de Dades by Pau Bernabé
+Data Structure Repository by Pau Bernabé
 UNIVERSITAT DE BARCELONA 17-18
+
